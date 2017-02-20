@@ -1,0 +1,5 @@
+target "MIKMIDITest" do
+  pod 'MIKMIDI'
+end
+
+
